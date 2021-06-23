@@ -25,6 +25,7 @@
       align-items: center;
 
       h1 {
+        margin-top: 15px;
         font-family: "Poppins", sans-serif;
         font-size: 24px;
         color: #29292e;
@@ -41,6 +42,7 @@
     }
     form {
       textarea {
+        margin-top: 10px;
         width: 100%;
         border: 0;
         padding: 16px;
@@ -56,7 +58,24 @@
         align-items: center;
         margin-top: 16px;
 
-        span{
+        .user-info{
+          display: flex;
+          align-items: center;
+
+          img{
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+          }
+          span{
+            margin-left: 8px;
+            color: #29292e;
+            font-weight: 500;
+            font-size: 14px;
+          }
+        }
+
+        > span{
           font-size: 14px;
           color: #737380;
           font-weight: 500;
