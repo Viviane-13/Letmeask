@@ -52,7 +52,6 @@ export function Room() {
         authorId: user?.id,
       })
     }
-
   }
 
   return (
