@@ -1,6 +1,8 @@
-
+<p align="center">
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+</p>
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src="/cover.svg" />
+    <img alt="Letmeask" title="Letmeask" src=".github/cover.svg" />
 </h1>
 
 <br>
