@@ -27,7 +27,7 @@ $ cd Letmeask
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ yarn
+$ yarn install
 
 # Start the project
 $ yarn start
@@ -44,9 +44,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 
 <p align="center">Made with 💜 by Viviane Oliveira</p>
-
-
-
 
 
 # Letmeask
