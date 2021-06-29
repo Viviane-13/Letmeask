@@ -43,11 +43,10 @@ You can view the project layout through the links below:
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 
-<p align="center">Made with 💜 by Viviane Oliveira</p>
-
-
 # Letmeask
 
 Link da aplicação:
 
 https://letmeask-b52fd.web.app/
+
+<p align="center">Made with 💜 by Viviane Oliveira</p>
